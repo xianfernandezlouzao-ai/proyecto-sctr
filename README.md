@@ -1,4 +1,4 @@
-/*
+/*t
  * SPDX-License-Identifier: MIT
  *
  * Ejercicio: Alarma domestica minima (DISARMED/ARMED/ALARM)
